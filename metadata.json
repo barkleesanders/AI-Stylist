@@ -1,0 +1,8 @@
+{
+  "name": "AI Sustainable Stylist",
+  "description": "An AI-powered platform to help you build a stylish, sustainable, and timeless wardrobe. Get monetization strategies, educational content, personalized style-outs, and visual mood boards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
